@@ -1,3 +1,4 @@
-export default function Page(){
-    return <p>Customers</p>
+export default async function Page() {
+
+  return <p>Customers</p>;
 }
